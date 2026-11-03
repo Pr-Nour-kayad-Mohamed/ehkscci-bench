@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "ehkscci-bench"
+version = "0.1.0"
+description = "Exploratory geometrico-spectral graph benchmark"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.23", "scipy>=1.10", "pandas>=1.5"]
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+[project.scripts]
+ehkscci = "ehkscci.cli:main"
+[tool.setuptools.packages.find]
+where = ["src"]
