@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23922885.svg)](https://doi.org/10.5281/zenodo.23922885)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23907425.svg)](https://doi.org/10.5281/zenodo.23907425)
 
 # EHK-SCCI Bench
 
@@ -44,11 +44,15 @@ Depuis le dossier contenant `pyproject.toml` :
 
 ## Dépôt scientifique associé
 
-https://doi.org/10.5281/zenodo.23907426
+https://doi.org/10.5281/zenodo.23907425
 
-Les documents associés peuvent correspondre à différentes campagnes
-exploratoires. Leur reproduction exacte par cette version du logiciel
-n’est pas établie.
+Le DOI ci-dessus est le DOI de concept : il renvoie toujours vers la
+version la plus récente du dépôt.
+
+Les documents exploratoires — notes méthodologiques, équations, figures
+et tableaux de campagnes — sont déposés dans la version 1 du record
+(DOI 10.5281/zenodo.23907426). Leur reproduction exacte par cette
+version du logiciel n’est pas établie.
 
 ## Citer ce travail
 
